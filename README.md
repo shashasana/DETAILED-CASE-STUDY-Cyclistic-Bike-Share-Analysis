@@ -395,7 +395,3 @@ jobs:
 * Replace quick heuristics with domain-specific logic as needed.
 * Add unit tests for `clean.py` functions.
 * Add an exploratory notebook in `notebooks/` to visualize intermediate steps.
-
----
-
-If you want, I can also create these files directly in the repo for you (one-shot), or produce a ready-to-upload ZIP — tell me which and I’ll scaffold it.

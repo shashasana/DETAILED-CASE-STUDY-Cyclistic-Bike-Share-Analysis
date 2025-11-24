@@ -1,3 +1,16 @@
-# DETAILED-CASE-STUDY-Cyclistic-Bike-Share-Analysis
-This is a case study for a fictional company, Cyclistic, a bike-share 
-company. It will determine how annual members and casual riders use Cyclistic bikes differently, and provide insights that will guide a marketing strategy aimed at converting more casual riders into annual members.
+# Cyclistic Bike Analysis
+
+
+Repository to reproduce the Cyclistic marketing analysis (members vs casual riders).
+
+
+## Quick start
+
+
+1. Create a Python venv and install dependencies:
+
+
+```bash
+python -m venv venv
+source venv/bin/activate # or `venv\Scripts\activate` on Windows
+pip install -r requirements.txt
